@@ -3,7 +3,7 @@
 
  Nome: João Eduardo Marques Salles 
 
- Curso: Sistemas de Informação - 1° Período - 1° Semestre de 2022 - Puc Minas Betim
+ Curso: Sistemas de Informação - 1° Período - 1° Semestre de 2022 - Puc Minas Betim ICEI
 
  Template Padrão do site Roletour HTML e CSS
 

@@ -41,7 +41,7 @@ body {
 }
 
 .main {
-    background-image: url('background-branca.png');
+    background-image: url('img/background-branca.png');
     background-size: cover;
     height: 100%;
 }
@@ -197,7 +197,7 @@ body {
     }
 
     #slogan{
-        background-image: url('img-background-a-nova-economia.jpg');
+        background-image: url('img/img-background-a-nova-economia.jpg');
         background-position-y: -240px;
         background-size: cover;
     }
@@ -211,7 +211,7 @@ body {
     height: 95vh;
     height: 375px;
     padding: 40px 2%;
-    background-image: url('img-background-a-nova-economia.jpg');
+    background-image: url('img/img-background-a-nova-economia.jpg');
     background-size: cover;
 }
 

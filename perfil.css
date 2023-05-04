@@ -58,7 +58,7 @@ body {
 }
 
 .main {
-    background-image: url('background-branca.png');
+    background-image: url('img/background-branca.png');
     background-size: cover;
     height: 100%;
 }
